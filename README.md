@@ -1,5 +1,6 @@
 # Varsity-Sackers
 <img width="3668" height="4612" alt="IMG_9062" src="https://github.com/user-attachments/assets/1ff3a523-f0f1-4973-95b2-e3df48ed81eb" />
+
 # **Konfetti Kaboom**
 Konfetti Kaboom (otherwise known [by our german brotha from another mother] as bombavagen) is a code/remote-controlled robot equipped with an over-engineered confetti cannon. Using just a single servo motor, we were able to convert rotational movement into linear motion with the pull of a pin to release our cannon. Using an Arduino Uno R3, we also rigged up a capacitor to produce a loud bang, like most confetti cannons do. The robot can be remote-controlled, but also features a built-in game mode. The game is similar to the well-known game of Russian roulette. It works by having several people gather in a circle and then start the robot. The robot autonomously turns in different directions and returns to the center each time. It then randomly picks a direction and drives that way for a few seconds. At that moment, the capacitor detonates and the confetti cannon is triggered.
 

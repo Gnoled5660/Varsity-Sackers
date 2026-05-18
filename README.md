@@ -7,7 +7,7 @@ Konfetti Kaboom (otherwise known [by our german brotha from another mother] as B
 # **Technical Description**
 The drive motors are powered by the battery provided with the Elegoo V3 kit. In addition, there are several 9V batteries used to detonate the capacitor, and one 9V battery is used to power the servo that controls the confetti cannon. Two Arduino Uno R3 boards handle the system control. One Arduino is responsible for motor control, while the other controls the cannon, the detonation of the capacitor, and the LCD display. To allow the Arduino to execute commands, we used an IR receiver to send signals from the remote control to the Arduino Uno R3. At this hackathon, there was also a specific theme requiring you to choose a random item and build it into your project. Ours was an alarm clock from the 70s or 80s. From this alarm clock, we extracted the housing and the buzzer, which can play sounds. We glued the VFD from the alarm clock onto the back of the vehicle as decoration.
 
-# **Demo Video**
+# **Prototype v1 Catapult Demo Video**
 https://youtu.be/Vskx_DW9xjM
 
 # **Demo Game**

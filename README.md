@@ -15,7 +15,7 @@ https://youtu.be/gEPX9HXMvCo
 
 # **Movement**
 -The movement is already coded within the Arduino that was supplied with the Robot Kit
--For the confetti launcher we
+-For the confetti launcher, we made a rotational push/pull motor, making it release the confetti.
 
 # **Creators:**  Delong Liu, Ethan Bailey, Jack Reisdorph
 
